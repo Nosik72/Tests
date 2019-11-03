@@ -4,10 +4,10 @@ public class Test1 {
         System.out.println("111111");
         System.out.println("333333");
 
-        System.out.println("Ma");
-        System.out.println("Br");
-        System.out.println("Br1");
-        System.out.println("Br2");
+        //System.out.println("Ma");
+        //System.out.println("Br");
+        //System.out.println("Br1");
+        //System.out.println("Br2");
 
     }
 }
